@@ -2,8 +2,9 @@
 <html lang="en">
   {% include head.html %}
   <body>
-    <main>
-      
-    </main>
+      {% include header.html %}
+      {{ content }}
+      {% include footer.html %}
+    {% include javascripts.html %}
   </body>
 </html>

@@ -1,9 +1,11 @@
 @import 'partials/typography';
 
 body {
-
+  margin: 1em;
+  font-smooth: always;
+  -webkit-font-smoothing: antialiased;
 }
 
 p {
-
+  line-height: $line-height;
 }

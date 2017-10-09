@@ -1,31 +1,31 @@
 @font-face {
 	font-family: 'Fira Code';
-	src: url(asset_path('FiraCode-Medium.woff2')) format('woff2'),
-		url(asset_path('FiraCode-Medium.woff')) format('woff');
+	src: url(asset_path('fonts/FiraCode-Medium.woff2')) format('woff2'),
+		url(asset_path('fonts/FiraCode-Medium.woff')) format('woff');
 	font-weight: 500;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Fira Code';
-	src: url(asset_path('FiraCode-Light.woff2')) format('woff2'),
-		url(asset_path('FiraCode-Light.woff')) format('woff');
+	src: url(asset_path('fonts/FiraCode-Light.woff2')) format('woff2'),
+		url(asset_path('fonts/FiraCode-Light.woff')) format('woff');
 	font-weight: 300;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Fira Code';
-	src: url(asset_path("FiraCode-Regular.woff")) format('woff'),
-		url(asset_path('FiraCode-Regular.woff')) format('woff');
+	src: url(asset_path("fonts/FiraCode-Regular.woff")) format('woff'),
+		url(asset_path('fonts/FiraCode-Regular.woff')) format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Fira Code';
-	src: url(asset_path('FiraCode-Bold.woff2')) format('woff2'),
-		url(asset_path('FiraCode-Bold.woff')) format('woff');
+	src: url(asset_path('fonts/FiraCode-Bold.woff2')) format('woff2'),
+		url(asset_path('fonts/FiraCode-Bold.woff')) format('woff');
 	font-weight: bold;
 	font-style: normal;
 }

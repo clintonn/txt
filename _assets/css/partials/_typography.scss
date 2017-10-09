@@ -1,7 +1,13 @@
 @import '../fonts/firacode';
+@import 'partials/variables';
 
 $main-body-font: 'Fira Code', Monaco, Courier, sans-serif;
 
 body {
+  font-family: $main-body-font;
+  font-size: 1em;
+}
+
+h1 {
   font-family: $main-body-font;
 }
